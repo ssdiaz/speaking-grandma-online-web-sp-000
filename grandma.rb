@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
     puts "NO, NOT SINCE 1938!"
 
   elsif phrase ==  "I LOVE YOU GRANDMA!" #if phrase exactly: "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+     "I LOVE YOU TOO PUMPKIN!"
 
   else
     # if not all uppercase,... so if all lowercase
